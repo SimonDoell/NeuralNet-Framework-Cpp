@@ -2,7 +2,7 @@
 
 ---
 
-A simple framework for a feedforward, fully connected Neural net, with varios different activation functions.
+A simple framework for a feedforward, fully connected Neural net, with various different activation functions.
 
 
 ## How to use:

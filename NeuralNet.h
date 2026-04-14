@@ -1,3 +1,8 @@
+/*
+ Copyright (c) 2026 Simon Döll (https://github.com/SimonDoell)
+ Licensed under the MIT License. See LICENSE file for details.
+*/
+
 #pragma once
 #include <iostream>
 #include <random>
